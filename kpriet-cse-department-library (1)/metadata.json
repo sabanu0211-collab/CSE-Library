@@ -1,0 +1,6 @@
+{
+  "name": "KPRIET CSE Department Library",
+  "description": "Library Book Availability & Issue/Return Management System for CSE Department at KPR Institute of Engineering and Technology",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
